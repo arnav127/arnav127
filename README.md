@@ -1,7 +1,7 @@
 ### Hi there, I'm [Arnav!](https://arnav-resume.netlify.app) 👋   
 Hi, I’m Arnav Dixit, sophomore at MANIT, Bhopal.   
 
-- 🌱 I’m currently learning Kernel Module Programming
+- 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with [Menumaker](https://github.com/arnav127/menumaker/)
 - 💬 Ask me about Linux and I wouldn't stop speaking
 - 📫 Reach me [here](mailto:arnavdixit@email.com)
