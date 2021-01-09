@@ -20,7 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=arnav127" alt="page views" />
 </a>
 
-<br /><br />
+<br />
 
 
 ### Hi, I’m Arnav Dixit <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
