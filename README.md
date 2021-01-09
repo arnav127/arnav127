@@ -20,10 +20,10 @@
     <img src="https://komarev.com/ghpvc/?username=arnav127" alt="page views" />
 </a>
 
-<br />
+<br /><br />
 
 
-Hi, I’m Arnav Dixit<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> 
+### Hi, I’m Arnav Dixit <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
 - 🎓 Undergraduate at NIT Bhopal, majoring in Computer Science 
 - 🔭 Currently I'm working on some side projects and libraries
 - 🌱 I’m always ready to collaborate and contribute
