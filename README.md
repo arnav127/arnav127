@@ -31,10 +31,9 @@
 - 💬 Brainstorm with me over tech, algorithms and music
 - 📝 [Resume](http://bit.ly/3i0Tmaj)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnav127&show_icons=true&include_all_commits=true&hide_border=true" alt="Arnav's github stats" />
+<a href="https://github.com/arnav127">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnav127&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" alt="Arnav's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav127&layout=compact&hide_border=true&hide=Jupyter%20Notebook" />
+<a href="https://github.com/arnav127">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav127&layout=compact&hide_border=true&hide=Jupyter%20Notebook&theme=radical" />
 </a>
