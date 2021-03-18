@@ -29,7 +29,7 @@
 - 🌱 I’m always ready to collaborate and contribute
 -  🖥 Enhancing my Competitive Programming skills
 - 💬 Brainstorm with me over tech, algorithms and music
-- 📝 [Resume](http://bit.ly/3i0Tmaj)
+- 📝 [Resume](http://bit.ly/arnavdixit)
 
 <a href="https://github.com/arnav127">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnav127&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" alt="Arnav's github stats" />
