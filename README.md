@@ -32,8 +32,8 @@
 - 📝 [Resume](http://bit.ly/arnavdixit)
 
 <a href="https://github.com/arnav127">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnav127&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" alt="Arnav's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnav127&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Arnav's github stats" />
 </a>
 <a href="https://github.com/arnav127">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav127&layout=compact&hide_border=true&hide=Jupyter%20Notebook&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav127&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" />
 </a>
