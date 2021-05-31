@@ -22,7 +22,6 @@
 
 <br />
 
-
 ### Hi, I’m Arnav Dixit <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
 - 🎓 Undergraduate at NIT Bhopal, majoring in Computer Science 
 - 🔭 Currently I'm working on some side projects and libraries
@@ -30,6 +29,8 @@
 -  🖥 Enhancing my Competitive Programming skills
 - 💬 Brainstorm with me over tech, algorithms and music
 - 📝 [Resume](http://bit.ly/arnavdixit)
+
+![Metrics](https://metrics.lecoq.io/arnav127?template=classic&repositories.forks=true&base.header=0&lines=1&config.timezone=Asia%2FCalcutta)
 
 <a href="https://github.com/arnav127">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnav127&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Arnav's github stats" />
