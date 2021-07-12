@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/arnav-dixit-86a097193/">
   <img align="left" alt="Arnav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/oobrnoobv/">
+<a href="https://www.instagram.com/arnav.dxt/">
   <img align="left" alt="Arnav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto: arnavdixit@email.com">
@@ -28,7 +28,7 @@
 - 🌱 I’m always ready to collaborate and contribute
 -  🖥 Enhancing my Competitive Programming skills
 - 💬 Brainstorm with me over tech, algorithms and music
-- 📝 [Resume](http://bit.ly/arnavdixit)
+- 📝 [Resume](https://drive.google.com/file/d/1OVz2dtVYtVN61iPuqB-0v2z3c6OwmUbT/view?usp=sharing)
 
 ![Metrics](https://metrics.lecoq.io/arnav127?template=classic&repositories.forks=true&base.header=0&lines=1&config.timezone=Asia%2FCalcutta)
 
