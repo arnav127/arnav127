@@ -3,7 +3,7 @@
 <a href="https://github.com/arnav127">
   <img align="left" alt="Arnav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/arnav-dixit-86a097193/">
+<a href="https://www.linkedin.com/in/arnavdixit/">
   <img align="left" alt="Arnav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/arnav.dxt/">
