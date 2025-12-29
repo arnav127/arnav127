@@ -1,40 +1,37 @@
-![Banner](banner.png)
+<div align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
 
-<a href="https://github.com/arnav127">
-  <img align="left" alt="Arnav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/arnavdixit/">
-  <img align="left" alt="Arnav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/arnav.dxt/">
-  <img align="left" alt="Arnav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto: arnavdixit@email.com">
-  <img align="left" alt="Arnav's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://t.me/arnavdixit">
-  <img align="left" alt="Arnav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+  <br />
 
-<a href="https://github.com/arnav127">
-    <img src="https://komarev.com/ghpvc/?username=arnav127" alt="page views" />
-</a>
+  <h1 align="center">Hi, I’m Arnav Dixit <img src="https://media.giphy.com/media/hvRJCLFzcuHTK/giphy.gif" width="28"></h1>
 
-<br />
+  <img src="https://komarev.com/ghpvc/?username=arnav127&label=Profile%20Views&color=0e75b6&style=flat" alt="page views" />
 
-### Hi, I’m Arnav Dixit <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
-- 🎓 Undergraduate at NIT Bhopal, majoring in Computer Science 
-- 🔭 Currently I'm working on some side projects and libraries
-- 🌱 I’m always ready to collaborate and contribute
--  🖥 Enhancing my Competitive Programming skills
-- 💬 Brainstorm with me over tech, algorithms and music
-- 📝 [Resume](https://drive.google.com/file/d/1OVz2dtVYtVN61iPuqB-0v2z3c6OwmUbT/view?usp=sharing)
+  <br />
 
+  <a href="https://github.com/arnav127">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arnavdixit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/arnav.dxt/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:arnavdixit127@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/arnavdixit">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  
 ![Metrics](https://metrics.lecoq.io/arnav127?template=classic&repositories.forks=true&base.header=0&lines=1&config.timezone=Asia%2FCalcutta)
 
 <a href="https://github.com/arnav127">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnav127&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Arnav's github stats" />
 </a>
-<a href="https://github.com/arnav127">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav127&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" />
-</a>
+
+</div>
